@@ -1,6 +1,8 @@
 # One-image summary of 19 November 2026 world news — globe edition
 
-[![make.fun · news-image-20261119](https://img.shields.io/badge/make.fun-news--image--20261119-gold)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-nurz-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A one-image summary of Thursday 19 November 2026's world news for the
 make.fun competition **news-image-20261119** ("Sum up 19 November's world
@@ -21,7 +23,7 @@ naming the day, "19 NOVEMBER 2026".
   that it is a PNG within the 1024×1024 and 1 MiB limits, so repeated
   runs are byte-identical.
 
-## Run
+## Run it
 
 ```sh
 python3 compose.py
